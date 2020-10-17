@@ -1,8 +1,10 @@
-# [LAB231]-[Lab Java Web]-[FPT University]-[NghiaDHSE140362] YellowMoonShop
+# [LAB231]-[Lab Java Web]-[FPT University]-[NghiaDHSE140362] [YellowMoonShop](https://github.com/haseoleonard/YellowMoonShop/)
 ## Yellow Moon : Moon Cake Shop
 
-The requirements is inside the PDF
-All the library used inside this project is inside the /libs directory
+The requirements is inside the PDF.
+
+All the library used inside this project is inside the /libs directory.
+
 ### Usage Guide
 * Setting Up DataSource Connection information for Database connection in web/META-INF/context.xml
 * Setting up value for Project Initialize in web/WEB-INF/web.xml:
