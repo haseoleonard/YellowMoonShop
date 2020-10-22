@@ -53,3 +53,5 @@ All the library used inside this project is inside the /libs directory.
 * Log4j 1.2.17
 * MSSQL JDBC 8.2.0
 * Apache Commons Upload
+
+© 2020 HaseoLeonard | facebook.com/okaminoizanagi
